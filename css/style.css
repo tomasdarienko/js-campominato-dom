@@ -31,3 +31,7 @@ main{
      text-transform: uppercase;
      color: white;
 }
+
+.clicked{
+     background-color: black;
+}
