@@ -35,3 +35,11 @@ main{
 .clicked{
      background-color: black;
 }
+.clicked-bomb{
+     background-color: rgb(82, 0, 0);
+}
+
+#punteggio{
+     color: white;
+     font-size: 50px;
+}
