@@ -1,0 +1,33 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+#grid{
+     display: flex;
+     flex-wrap: wrap;
+     width: 1000px;
+    margin: 0 auto;
+}
+.quadrato{
+     height: 100px;
+     width: 100px;
+     background-color: aquamarine;
+     border: 1px solid blueviolet;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: red;
+}
+main{
+     text-align: center;
+}
+#genera{
+    background-color: green;
+     padding: 50px;
+     margin: 40px;
+     font-size: 50px;
+     text-transform: uppercase;
+     color: white;
+}
